@@ -38,7 +38,7 @@ public class Enter_Three_Number {
                         System.out.println("they are not equal");
                     }
                     System.out.println("Do you want to try again Press number  \n1 if you want to try again  2: if you are done");
-              tryagain = input3.nextInt();;
+              tryagain = input3.nextInt();
              
             }while(tryagain == 1);
     
